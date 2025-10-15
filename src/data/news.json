@@ -1,0 +1,42 @@
+[
+  {
+    "id": "spring-garden-launch",
+    "title": "Spring Community Garden Season Kicks Off",
+    "summary": "Over 100 families registered for this year's community garden program as we expand to three new locations across Calgary.",
+    "author": "Amara Okafor",
+    "date": "2024-04-15",
+    "category": "Community",
+    "image": "/images/news/garden-launch.jpg",
+    "content": "We're thrilled to announce the launch of our Spring 2024 Community Garden season! With overwhelming community interest, we've expanded to three new locations: Forest Lawn, Bowness, and Marlborough. Each garden will feature raised beds, composting systems, and educational workshops throughout the growing season.\n\nOur program focuses on more than just growing food - it's about building community connections, teaching sustainable practices, and ensuring everyone has access to fresh, healthy produce. This season, we're particularly excited about our new Indigenous garden plot, which will feature traditional plants and medicines in partnership with local Elders.\n\nRegistration is still open for a limited number of plots. Visit our Get Involved page to sign up!"
+  },
+  {
+    "id": "solar-schools-expansion",
+    "title": "Solar Schools Program Reaches 15 Calgary Schools",
+    "summary": "Our solar education initiative has now installed learning panels at 15 schools, teaching over 500 students about renewable energy.",
+    "author": "Marcus Thompson",
+    "date": "2024-05-22",
+    "category": "Energy",
+    "image": "/images/news/solar-schools.jpg",
+    "content": "The Solar Schools Program has reached a major milestone: 15 schools across Calgary now have educational solar installations that both power school facilities and serve as hands-on learning tools.\n\nEach installation includes monitoring equipment that allows students to track energy production in real-time, weather stations to understand solar efficiency, and curriculum materials developed in partnership with Alberta Education.\n\n'Seeing the students' faces light up when they realize they can generate clean electricity is incredible,' says Program Coordinator Sarah Chen. 'These installations are creating the next generation of renewable energy advocates and professionals.'\n\nThe program has been so successful that we're expanding to rural Alberta schools this fall, with support from the provincial government's green energy education fund."
+  },
+  {
+    "id": "youth-leaders-graduate",
+    "title": "First Cohort of Youth Energy Leaders Graduates",
+    "summary": "Twenty young people completed our intensive mentorship program, with many securing positions in the clean energy sector.",
+    "author": "David Park",
+    "date": "2024-06-10",
+    "category": "Education",
+    "image": "/images/news/youth-graduation.jpg",
+    "content": "We're proud to celebrate the graduation of our first Youth Energy Leadership cohort! Twenty incredible young people have completed six months of intensive mentorship, technical training, and hands-on project experience.\n\nThe program paired each participant with industry mentors from renewable energy companies, engineering firms, and environmental organizations. Students worked on real projects, from conducting energy audits to designing community solar proposals.\n\nGraduation highlights include:\n- 12 participants secured internships or entry-level positions\n- 5 were accepted into engineering or environmental science programs\n- 3 launched their own environmental initiatives\n\nApplications for our Fall 2024 cohort open next month. We especially encourage applications from Indigenous youth, newcomers, and students from underrepresented communities."
+  },
+  {
+    "id": "partnership-announcement",
+    "title": "New Partnership with Alberta Energy Futures Lab",
+    "summary": "FEC joins forces with Energy Futures Lab to accelerate community-based clean energy projects across the province.",
+    "author": "Dr. Sarah Chen",
+    "date": "2024-07-01",
+    "category": "Partnership",
+    "image": "/images/news/partnership.jpg",
+    "content": "We're excited to announce a strategic partnership with the Alberta Energy Futures Lab, a collaboration that will significantly expand our capacity to support community-led energy transitions.\n\nThis partnership brings together FEC's grassroots community engagement expertise with Energy Futures Lab's technical resources and policy knowledge. Together, we'll develop new models for community energy ownership, support local renewable energy projects, and advocate for policies that enable community-scale clean energy.\n\nKey initiatives include:\n- Community solar feasibility studies in 5 Alberta communities\n- Technical assistance for community groups developing renewable projects\n- Joint research on just energy transitions that benefit all Albertans\n- Policy recommendations for community energy enabling frameworks\n\n'This partnership represents the kind of collaboration needed to accelerate Alberta's energy transition,' says Executive Director Dr. Sarah Chen. 'By combining community wisdom with technical excellence, we can create energy solutions that work for everyone.'"
+  }
+]

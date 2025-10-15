@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Earthy, sustainable color palette */
+    --background: 42 28% 94%;        /* warm light beige #F5F3E7 */
+    --foreground: 28 14% 29%;        /* natural text #4B4237 */
+
+    --card: 0 0% 100%;
+    --card-foreground: 28 14% 29%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 28 14% 29%;
+
+    --primary: 32 21% 45%;           /* earthy brown #8C7A5B */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 42 24% 74%;         /* sand tone #D3C6A3 */
+    --secondary-foreground: 28 14% 29%;
+
+    --muted: 42 24% 74%;
+    --muted-foreground: 28 14% 50%;
+
+    --accent: 85 18% 64%;            /* muted olive green #A5B68D */
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 42 24% 85%;
+    --input: 42 24% 85%;
+    --ring: 32 21% 45%;
+
+    --radius: 0.75rem;
+
+    /* Custom design tokens */
+    --color-earth-dark: 30 14% 24%;  /* deep soil brown #3E3A31 */
+    --color-gradient-start: 42 28% 94%;
+    --color-gradient-end: 42 24% 82%;
+    
+    /* Shadows */
+    --shadow-soft: 0 2px 8px hsl(32 21% 45% / 0.1);
+    --shadow-medium: 0 4px 16px hsl(32 21% 45% / 0.12);
+    --shadow-large: 0 8px 32px hsl(32 21% 45% / 0.15);
+    
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .dark {
+    --background: 30 14% 24%;
+    --foreground: 42 28% 94%;
+
+    --card: 30 14% 28%;
+    --card-foreground: 42 28% 94%;
+
+    --popover: 30 14% 28%;
+    --popover-foreground: 42 28% 94%;
+
+    --primary: 42 24% 74%;
+    --primary-foreground: 30 14% 24%;
+
+    --secondary: 32 21% 35%;
+    --secondary-foreground: 42 28% 94%;
+
+    --muted: 32 21% 35%;
+    --muted-foreground: 42 24% 70%;
+
+    --accent: 85 18% 54%;
+    --accent-foreground: 30 14% 24%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 42 28% 94%;
+
+    --border: 32 21% 35%;
+    --input: 32 21% 35%;
+    --ring: 42 24% 74%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 600;
+  }
+}
+
+@layer utilities {
+  .gradient-earth {
+    background: linear-gradient(135deg, hsl(var(--color-gradient-start)), hsl(var(--color-gradient-end)));
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .hover-lift {
+    transition: var(--transition-smooth);
+  }
+
+  .hover-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-medium);
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.6s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}

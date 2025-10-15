@@ -1,0 +1,62 @@
+[
+  {
+    "id": "eco-tote",
+    "name": "FEC Organic Cotton Tote Bag",
+    "price": 15.99,
+    "image": "/images/products/tote.jpg",
+    "description": "Sturdy, reusable organic cotton tote featuring the FEC logo. Perfect for farmers markets and everyday use.",
+    "category": "Bags",
+    "inStock": true,
+    "features": ["100% organic cotton", "Fair trade certified", "Machine washable", "14\" x 16\" size"]
+  },
+  {
+    "id": "seed-kit",
+    "name": "Alberta Native Plant Seed Kit",
+    "price": 24.99,
+    "image": "/images/products/seeds.jpg",
+    "description": "Collection of 10 native Alberta plant varieties. Support local biodiversity in your garden.",
+    "category": "Garden",
+    "inStock": true,
+    "features": ["10 native varieties", "Growing instructions included", "Pollinator-friendly", "Non-GMO"]
+  },
+  {
+    "id": "water-bottle",
+    "name": "Insulated Stainless Steel Water Bottle",
+    "price": 29.99,
+    "image": "/images/products/bottle.jpg",
+    "description": "Keep drinks cold for 24 hours or hot for 12 hours. Eco-friendly alternative to disposable bottles.",
+    "category": "Drinkware",
+    "inStock": true,
+    "features": ["32 oz capacity", "BPA-free", "Double-wall insulation", "Leak-proof lid"]
+  },
+  {
+    "id": "solar-charger",
+    "name": "Portable Solar Phone Charger",
+    "price": 49.99,
+    "image": "/images/products/solar-charger.jpg",
+    "description": "Compact solar panel with USB output. Perfect for camping and emergency preparedness.",
+    "category": "Electronics",
+    "inStock": true,
+    "features": ["10W solar panel", "Dual USB ports", "Waterproof design", "Carabiner attachment"]
+  },
+  {
+    "id": "hoodie",
+    "name": "FEC Eco-Fleece Hoodie",
+    "price": 54.99,
+    "image": "/images/products/hoodie.jpg",
+    "description": "Soft, warm hoodie made from recycled materials. Comfortable and sustainable.",
+    "category": "Apparel",
+    "inStock": true,
+    "features": ["60% recycled cotton", "Unisex fit", "Kangaroo pocket", "Available in S-XXL"]
+  },
+  {
+    "id": "garden-guide",
+    "name": "Urban Gardening Guide Book",
+    "price": 18.99,
+    "image": "/images/products/book.jpg",
+    "description": "Comprehensive guide to growing food in small spaces. Written by Alberta gardening experts.",
+    "category": "Books",
+    "inStock": true,
+    "features": ["120 pages", "Full-color photos", "Calgary-specific tips", "Season-by-season planning"]
+  }
+]

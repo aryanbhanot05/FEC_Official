@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Chen",
+    "role": "Executive Director",
+    "bio": "Environmental engineer with 15 years of experience in sustainable energy systems. Passionate about building inclusive communities through clean technology.",
+    "image": "/images/team/sarah.jpg",
+    "email": "sarah@feccanada.org"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Thompson",
+    "role": "Project Lead - Community Initiatives",
+    "bio": "Community organizer focused on grassroots environmental action. Electrical engineering student at University of Calgary.",
+    "image": "/images/team/marcus.jpg",
+    "email": "marcus@feccanada.org"
+  },
+  {
+    "id": 3,
+    "name": "Amara Okafor",
+    "role": "Education Coordinator",
+    "bio": "Former teacher bringing innovative environmental curriculum to schools across Alberta. Committed to youth empowerment.",
+    "image": "/images/team/amara.jpg",
+    "email": "amara@feccanada.org"
+  },
+  {
+    "id": 4,
+    "name": "James Running Bear",
+    "role": "Indigenous Relations Advisor",
+    "bio": "Blackfoot Nation member working to integrate traditional ecological knowledge with modern sustainability practices.",
+    "image": "/images/team/james.jpg",
+    "email": "james@feccanada.org"
+  },
+  {
+    "id": 5,
+    "name": "Elena Rodriguez",
+    "role": "Development Director",
+    "bio": "Fundraising professional with a track record of securing grants for environmental and social impact organizations.",
+    "image": "/images/team/elena.jpg",
+    "email": "elena@feccanada.org"
+  },
+  {
+    "id": 6,
+    "name": "David Park",
+    "role": "Technology Coordinator",
+    "bio": "Software developer and renewable energy enthusiast. Building digital tools for community engagement and impact measurement.",
+    "image": "/images/team/david.jpg",
+    "email": "david@feccanada.org"
+  }
+]

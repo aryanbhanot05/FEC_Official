@@ -1,0 +1,50 @@
+[
+  {
+    "id": "beehive-initiative",
+    "title": "Urban Beehive Initiative",
+    "description": "Supporting urban beekeeping for environmental balance and biodiversity in Calgary communities.",
+    "image": "/images/beehive.jpg",
+    "category": "Environment",
+    "location": "Calgary, AB",
+    "date": "2024-06-15",
+    "fullDescription": "The Urban Beehive Initiative aims to restore pollinator populations in urban environments through community-led beekeeping programs. We provide education, resources, and support to local residents interested in sustainable beekeeping practices.",
+    "impact": "500+ bees supported, 12 community gardens pollinated, 25 families trained",
+    "partners": ["Calgary Parks Foundation", "Urban Harvest", "Alberta Beekeepers"]
+  },
+  {
+    "id": "solar-education",
+    "title": "Solar Education Program",
+    "description": "Teaching students and communities about renewable energy through hands-on solar panel workshops.",
+    "image": "/images/solar.jpg",
+    "category": "Energy",
+    "location": "Alberta Wide",
+    "date": "2024-03-20",
+    "fullDescription": "Our Solar Education Program brings renewable energy knowledge directly to schools and community centers. Through interactive workshops, participants learn about solar technology, installation, and the environmental benefits of clean energy.",
+    "impact": "200+ students educated, 8 schools reached, 15 solar installations completed",
+    "partners": ["Alberta Education", "SolarTech Canada", "Green Schools Initiative"]
+  },
+  {
+    "id": "community-gardens",
+    "title": "Community Garden Network",
+    "description": "Building sustainable food systems through collaborative urban agriculture and community engagement.",
+    "image": "/images/garden.jpg",
+    "category": "Agriculture",
+    "location": "Calgary, AB",
+    "date": "2024-01-10",
+    "fullDescription": "The Community Garden Network connects neighbors through shared growing spaces, promoting local food production, environmental education, and community resilience. We provide land access, tools, seeds, and expertise to help communities thrive.",
+    "impact": "10 gardens established, 300+ families participating, 2 tons of produce grown",
+    "partners": ["Calgary Food Bank", "Grow Calgary", "Local Harvest"]
+  },
+  {
+    "id": "youth-mentorship",
+    "title": "Youth Energy Leadership",
+    "description": "Empowering the next generation of environmental leaders through mentorship and skill development.",
+    "image": "/images/youth.jpg",
+    "category": "Education",
+    "location": "Calgary, AB",
+    "date": "2023-11-05",
+    "fullDescription": "Our Youth Energy Leadership program connects young people with industry professionals, providing mentorship, internships, and hands-on experience in sustainable energy fields. We focus on creating pathways for diverse youth to enter green careers.",
+    "impact": "50 youth mentored, 20 internships provided, 5 career pathways created",
+    "partners": ["Calgary Board of Education", "Energy Futures Lab", "Youth Central"]
+  }
+]
