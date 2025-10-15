@@ -159,5 +159,7 @@ Feel free to use it for learning, customization, or non-profit projects.
 
 ## 💚 Credits
 Built with purpose and passion for sustainability
+
 🌿Inspired by feccanada.org
+
 Developed by [Aryan Bhanot](https://www.linkedin.com/in/aryan-bhanot-609650245/)
