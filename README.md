@@ -1,7 +1,7 @@
 # 🌿 Foundation of the Energy Collective (FEC)
 
 A complete, beginner-friendly website for **FEC (Foundation of the Energy Collective)** — built using **React** and **Next.js/Vite**, inspired by the official [feccanada.org](https://feccanada.org).  
-The site combines sustainable design principles, accessibility, and modular simplicity with an **earthy, calm visual theme**.
+The site combines sustainable design principles, accessibility, and modular simplicity with an **earthy, calm visual theme**. The website is deployed at [FEC_website](https://fec-official.vercel.app/).
 
 ---
 
